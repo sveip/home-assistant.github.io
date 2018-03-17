@@ -94,9 +94,6 @@ When pressing the button on the physical remote, RFLink detects the signal and t
 light:
   - platform: rflink
     automatic_add: true
-switch:
-  - platform: rflink
-    automatic_add: true
 sensor:
   - platform: rflink
     automatic_add: true
