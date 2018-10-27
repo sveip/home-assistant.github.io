@@ -39,7 +39,6 @@ If you have problems with deCONZ or the component you can add debug prints to th
 
 ```yaml
 logger:
-  default: info
   logs:
     pydeconz: debug
     homeassistant.components.deconz: debug
